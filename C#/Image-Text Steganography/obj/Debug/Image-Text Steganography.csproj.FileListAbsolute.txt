@@ -1,0 +1,18 @@
+C:\Users\higazy\Desktop\Asm Project\Image-Text Steganography\Image-Text Steganography\bin\Debug\Image-Text Steganography.exe.config
+C:\Users\higazy\Desktop\Asm Project\Image-Text Steganography\Image-Text Steganography\obj\Debug\Image-Text Steganography.csprojResolveAssemblyReference.cache
+C:\Users\higazy\Desktop\Asm Project\Image-Text Steganography\Image-Text Steganography\obj\Debug\Image_Text_Steganography.Form1.resources
+C:\Users\higazy\Desktop\Asm Project\Image-Text Steganography\Image-Text Steganography\obj\Debug\Image_Text_Steganography.Properties.Resources.resources
+C:\Users\higazy\Desktop\Asm Project\Image-Text Steganography\Image-Text Steganography\obj\Debug\Image-Text Steganography.csproj.GenerateResource.Cache
+C:\Users\higazy\Desktop\Asm Project\Image-Text Steganography\Image-Text Steganography\bin\Debug\Image-Text Steganography.exe
+C:\Users\higazy\Desktop\Asm Project\Image-Text Steganography\Image-Text Steganography\bin\Debug\Image-Text Steganography.pdb
+C:\Users\higazy\Desktop\Asm Project\Image-Text Steganography\Image-Text Steganography\obj\Debug\Image-Text Steganography.exe
+C:\Users\higazy\Desktop\Asm Project\Image-Text Steganography\Image-Text Steganography\obj\Debug\Image-Text Steganography.pdb
+C:\Users\higazy\Desktop\Asm Project\C#\Image-Text Steganography\bin\Debug\Image-Text Steganography.exe.config
+C:\Users\higazy\Desktop\Asm Project\C#\Image-Text Steganography\obj\Debug\Image-Text Steganography.exe
+C:\Users\higazy\Desktop\Asm Project\C#\Image-Text Steganography\obj\Debug\Image-Text Steganography.pdb
+C:\Users\higazy\Desktop\Asm Project\C#\Image-Text Steganography\bin\Debug\Image-Text Steganography.exe
+C:\Users\higazy\Desktop\Asm Project\C#\Image-Text Steganography\bin\Debug\Image-Text Steganography.pdb
+C:\Users\higazy\Desktop\Asm Project\C#\Image-Text Steganography\obj\Debug\Image-Text Steganography.csprojResolveAssemblyReference.cache
+C:\Users\higazy\Desktop\Asm Project\C#\Image-Text Steganography\obj\Debug\Image_Text_Steganography.Form1.resources
+C:\Users\higazy\Desktop\Asm Project\C#\Image-Text Steganography\obj\Debug\Image_Text_Steganography.Properties.Resources.resources
+C:\Users\higazy\Desktop\Asm Project\C#\Image-Text Steganography\obj\Debug\Image-Text Steganography.csproj.GenerateResource.Cache
